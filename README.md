@@ -1,5 +1,7 @@
 # Fix DB WiFi
 
+### [German Readme](README_de.md)
+
 `fix-db-wifi` is a simple command-line tool to resolve IP address conflicts between Deutsche Bahn WiFi and Docker
 networks. Both Deutsche Bahn WiFi and Docker use the `172.18.0.0/16` address space by default, which can cause
 connectivity issues.
