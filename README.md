@@ -30,13 +30,13 @@ pip install fix_db_wifi
 Afterwards you can run the tool using
 
 ```bash
-fix_db_wifi
+fix-db-wifi
 ```
 
 or
 
 ```bash
-fix_db_wifi --permanent
+fix-db-wifi --permanent
 ```
 
 Please note that because of the changes it makes, fix-db-wifi must be run with root privileges.
